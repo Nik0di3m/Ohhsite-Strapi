@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "strona_glownas",
+  "info": {
+    "name": "Strona_Główna"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Onas": {
+      "type": "string"
+    }
+  }
+}
