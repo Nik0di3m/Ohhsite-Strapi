@@ -1,6 +1,6 @@
 {
-  "kind": "collectionType",
-  "collectionName": "homes",
+  "kind": "singleType",
+  "collectionName": "home1s",
   "info": {
     "name": "Home",
     "description": ""
@@ -24,20 +24,20 @@
     "Card1Title": {
       "type": "string"
     },
-    "Card1Text": {
-      "type": "richtext"
-    },
     "Card2Title": {
       "type": "string"
-    },
-    "Card2Text": {
-      "type": "richtext"
     },
     "Card3Title": {
       "type": "string"
     },
+    "Card1Text": {
+      "type": "string"
+    },
+    "Card2Text": {
+      "type": "string"
+    },
     "Card3Text": {
-      "type": "richtext"
+      "type": "string"
     },
     "RealizacjeTitle": {
       "type": "string"
