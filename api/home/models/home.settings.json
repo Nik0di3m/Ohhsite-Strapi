@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homes",
+  "info": {
+    "name": "Home",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MetaTitle": {
+      "type": "string"
+    },
+    "MetaDescription": {
+      "type": "string"
+    },
+    "HeroTitle": {
+      "type": "string"
+    },
+    "Card1Title": {
+      "type": "string"
+    },
+    "Card1Text": {
+      "type": "richtext"
+    },
+    "Card2Title": {
+      "type": "string"
+    },
+    "Card2Text": {
+      "type": "richtext"
+    },
+    "Card3Title": {
+      "type": "string"
+    },
+    "Card3Text": {
+      "type": "richtext"
+    },
+    "RealizacjeTitle": {
+      "type": "string"
+    },
+    "AboutBigTitle": {
+      "type": "string"
+    },
+    "AboutSmallTitle": {
+      "type": "string"
+    },
+    "AboutText": {
+      "type": "richtext"
+    }
+  }
+}
