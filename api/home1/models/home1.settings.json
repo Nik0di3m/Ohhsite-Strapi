@@ -50,6 +50,39 @@
     },
     "AboutText": {
       "type": "richtext"
+    },
+    "FaqTitle": {
+      "type": "string"
+    },
+    "Faq1Text": {
+      "type": "richtext"
+    },
+    "Faq2Text": {
+      "type": "richtext"
+    },
+    "Faq3Text": {
+      "type": "richtext"
+    },
+    "Faq4Text": {
+      "type": "richtext"
+    },
+    "ClientTitle": {
+      "type": "string"
+    },
+    "ClientText": {
+      "type": "richtext"
+    },
+    "ContactTitle": {
+      "type": "string"
+    },
+    "ContactText": {
+      "type": "string"
+    },
+    "Phone": {
+      "type": "string"
+    },
+    "Mail": {
+      "type": "string"
     }
   }
 }
